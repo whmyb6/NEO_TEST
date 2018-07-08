@@ -1,0 +1,11 @@
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\bin\Debug\netcoreapp2.0\Console_ConvertPUB_key.deps.json
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\bin\Debug\netcoreapp2.0\Console_ConvertPUB_key.runtimeconfig.json
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\bin\Debug\netcoreapp2.0\Console_ConvertPUB_key.runtimeconfig.dev.json
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\bin\Debug\netcoreapp2.0\Console_ConvertPUB_key.dll
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\bin\Debug\netcoreapp2.0\Console_ConvertPUB_key.pdb
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\obj\Debug\netcoreapp2.0\Console_ConvertPUB_key.csprojResolveAssemblyReference.cache
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\obj\Debug\netcoreapp2.0\Console_ConvertPUB_key.csproj.CoreCompileInputs.cache
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\obj\Debug\netcoreapp2.0\Console_ConvertPUB_key.AssemblyInfoInputs.cache
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\obj\Debug\netcoreapp2.0\Console_ConvertPUB_key.AssemblyInfo.cs
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\obj\Debug\netcoreapp2.0\Console_ConvertPUB_key.dll
+c:\users\whm\source\repos\Console_ConvertPUB_key\Console_ConvertPUB_key\obj\Debug\netcoreapp2.0\Console_ConvertPUB_key.pdb
